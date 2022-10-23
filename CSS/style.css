@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(107, 129, 129);
+}
+.containernavegacao{
+    background-color: #8DB1D1; 
+}
+.margem{
+    padding-left: 50px;
+    padding-right: 70px;
+    
+}
+.quebradelinha::after{
+    flex-wrap: wrap;
+}
