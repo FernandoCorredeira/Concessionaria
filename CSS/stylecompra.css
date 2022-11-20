@@ -1,0 +1,25 @@
+section{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+}
+.bi bi-facebook{
+    width: 30px;
+    height: 50px;
+}
+
+@media screen and (max-width: 600px){
+    .navbar li section {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    .containercarousel{
+        width: 100%;
+    }
+}

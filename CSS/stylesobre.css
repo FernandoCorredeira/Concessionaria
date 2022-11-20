@@ -1,0 +1,22 @@
+section{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    align-items: center;
+
+}
+
+footer{
+
+    margin-left: 100px;
+    margin-right: 100px;
+}
+ul{
+    text-decoration: none;
+}
+a{
+    margin-left: 9px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
